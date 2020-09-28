@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+<!--    <style name="Theme" parent="Theme.AppCompat.Light.NoActionBar">-->
+<!--        &lt;!&ndash;<item name="android:windowContentOverlay">@null</item>&ndash;&gt;-->
+<!--        <item name="android:windowBackground">@color/activity_bg</item>-->
+<!--        &lt;!&ndash;<item name="vpiTabPageIndicatorStyle">@style/CustomTabPageIndicator</item>&ndash;&gt;-->
+<!--        &lt;!&ndash;<item name="android:listPopupWindowStyle">@null</item>&ndash;&gt;-->
+<!--        <item name="colorPrimary">@color/main_color</item>-->
+<!--        <item name="colorPrimaryDark">@color/main_color</item>-->
+<!--        <item name="colorAccent">@color/main_color</item>-->
+<!--        <item name="android:windowEnableSplitTouch">false</item>  &lt;!&ndash;禁用全局多点触控 &ndash;&gt;-->
+<!--        <item name="android:splitMotionEvents">false</item>  &lt;!&ndash;防止对控件的重复点击和同时点击多个控件&ndash;&gt;-->
+<!--        <item name="android:windowAnimationStyle">@style/default_animation</item>-->
+<!--        <item name="android:listDivider">@drawable/shape_line</item>-->
+<!--        &lt;!&ndash;        <item name="android:windowActivityTransitions">true</item>&ndash;&gt;-->
+<!--    </style>-->
+
+</resources>
